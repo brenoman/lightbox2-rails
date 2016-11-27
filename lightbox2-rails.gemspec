@@ -5,9 +5,9 @@ require 'lightbox2/rails/version'
 Gem::Specification.new do |s|
   s.name        = 'lightbox2-rails'
   s.version     = Lightbox2::Rails::VERSION
-  s.authors     = ['Gavin Lam']
-  s.email       = ['me@gavin.hk']
-  s.homepage    = 'https://github.com/gavinkflam/lightbox2-rails'
+  s.authors     = ['Johan Smits']
+  s.email       = ['johan@smitsmail.net']
+  s.homepage    = 'https://github.com/johansmitsnl/lightbox2-rails'
   s.summary     = 'Lightbox2 for Rails asset pipeline'
   s.description = s.summary
   s.license     = 'MIT'
